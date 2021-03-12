@@ -77,7 +77,7 @@ cd $HOME
 pkg update && pkg upgrade
 pkg install git
 pkg install wget
-git clone https://github.com/Darkziinh/bot4.0
+git clone https://github.com/K41019/KGUIT1230
 cd bot4.0
 bash install.sh
 sleep 2
